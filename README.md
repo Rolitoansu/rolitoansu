@@ -10,15 +10,12 @@ Soy un desarrollador backend con experiencia sólida en **Adobe Experience Manag
 
 * 🏢 Actualmente trabajo como **Desarrollador Backend AEM** en [Hiberus](https://www.hiberus.com/).
 * 🌱 Siempre estoy aprendiendo sobre nuevas **tecnologías web** y mejores prácticas de desarrollo.
-* 🛡️ Entusiasta de la **Ciberseguridad**: me interesa el hacking ético, la seguridad en aplicaciones web y proteger el código desde su concepción.
 * 💬 Pregúntame sobre: **Java, AEM, Arquitectura Backend o Seguridad Web.**
-* 📫 Cómo contactarme: [Tu Email](mailto:tu_correo@email.com)
+* 📫 Cómo contactarme: [Mi correo](rolitoansu@outlook.com)
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
-
-He dividido mi stack principal para que sea más fácil de leer. *(Nota: Puedes añadir o quitar los iconos según lo que uses en tu día a día)*:
 
 #### Backend & AEM
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
