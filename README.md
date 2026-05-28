@@ -38,16 +38,6 @@ He dividido mi stack principal para que sea más fácil de leer. *(Nota: Puedes 
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rolitoansu&show_icons=true&theme=radical" alt="Estadísticas" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolitoansu&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</div>
-
----
-
 ### 🤝 Conecta conmigo
 
 <p align="left">
