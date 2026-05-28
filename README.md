@@ -1,16 +1,57 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Raúl
 
-<!--
-**Rolitoansu/rolitoansu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer AEM @ Hiberus | Apasionado de las Tecnologías Web & Ciberseguridad**
 
-Here are some ideas to get you started:
+Soy un desarrollador backend con experiencia sólida en **Adobe Experience Manager (AEM)**, actualmente formando parte del equipo de **Hiberus**. Me encanta el desarrollo de software, trastear con nuevas tecnologías web y tengo un gran interés por el mundo de la ciberseguridad (porque hacer código está genial, pero hacerlo seguro es otro nivel 🔐).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Sobre mí
+
+* 🏢 Actualmente trabajo como **Desarrollador Backend AEM** en [Hiberus](https://www.hiberus.com/).
+* 🌱 Siempre estoy aprendiendo sobre nuevas **tecnologías web** y mejores prácticas de desarrollo.
+* 🛡️ Entusiasta de la **Ciberseguridad**: me interesa el hacking ético, la seguridad en aplicaciones web y proteger el código desde su concepción.
+* 💬 Pregúntame sobre: **Java, AEM, Arquitectura Backend o Seguridad Web.**
+* 📫 Cómo contactarme: [Tu Email](mailto:tu_correo@email.com)
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+He dividido mi stack principal para que sea más fácil de leer. *(Nota: Puedes añadir o quitar los iconos según lo que uses en tu día a día)*:
+
+#### Backend & AEM
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Adobe Experience Manager](https://img.shields.io/badge/AEM-FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+
+#### Tecnologías Web
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### Ciberseguridad & DevOps
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rolitoansu&show_icons=true&theme=radical" alt="Estadísticas" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolitoansu&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</div>
+
+---
+
+### 🤝 Conecta conmigo
+
+<p align="left">
+  <a href="https://linkedin.com/in/raúl-antuña-suárez-02620b398" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
